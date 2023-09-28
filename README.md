@@ -33,7 +33,7 @@ Location
 
 Clone the repository:
 
-git clone [URL-of-your-repo]
+git clone https://github.com/JustinLzc/Data-Analysis
 
 Navigate to the project directory and make sure to install the required libraries:
 
