@@ -3,7 +3,7 @@ This repository contains a Jupyter notebook detailing an exploratory data analys
 
 ## Overview
 
-The aim of this project was to gain a deeper understanding of the data science job market. Through this EDA, we offer insights into trends, distributions, and other valuable information about data science salaries.
+The aim of this project was to gain a deeper understanding of the data science job market. Through this EDA, offer insight into trends, distributions, and other valuable information about data science salaries.
 
 ## Key Features
 * Utilized **Python** to analyze 4000 data science job salaries and gain insights on any significant trends in the job market in the data science field.
